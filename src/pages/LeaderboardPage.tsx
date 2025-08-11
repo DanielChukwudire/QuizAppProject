@@ -95,7 +95,7 @@ export default function LeaderboardPage() {
         onClick={homePage}
         className=" bg-green-800 py-2 mb-10 rounded cursor-pointer hover:bg-green-600 text-white px-8"
       >
-        Play Again{" "}
+        Play Again
       </button>
 
       {/* Leaderboard table */}
