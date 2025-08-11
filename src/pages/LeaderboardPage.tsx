@@ -95,7 +95,7 @@ export default function LeaderboardPage() {
         onClick={homePage}
         className=" bg-green-800 py-2 mb-10 rounded cursor-pointer hover:bg-green-600 text-white px-8"
       >
-        Back to Home
+        Play Again{" "}
       </button>
 
       {/* Leaderboard table */}
@@ -131,7 +131,6 @@ export default function LeaderboardPage() {
                   >
                     Delete
                   </button>
-                  
                 </td>
               </tr>
             ))
