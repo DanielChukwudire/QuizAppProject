@@ -90,6 +90,7 @@ export default function LeaderboardPage() {
       >
         Clear Leaderboard
       </button>
+      {/* Back to homePage*/}
       <button
         onClick={homePage}
         className=" bg-green-800 py-2 mb-10 rounded cursor-pointer hover:bg-green-600 text-white px-8"
